@@ -17,5 +17,5 @@ To encode the text sequence, I mapped every word to a 200-dimensional vector usi
 
 To generate the captions, I used two popular methods: Greedy Search and Beam Search. These methods helped in selecting the best words to accurately describe the image.
 
-Dataset used: https://www.kaggle.com/datasets/shadabhussain/flickr8k?select=train_encoded_images.p (Flickr 8k image dataset)
+**Dataset used**: [Flickr 8k image dataset](https://www.kaggle.com/datasets/shadabhussain/flickr8k?select=train_encoded_images.p)
 [Visit my Repo here](https://github.com/Aveiro11/Image-caption-Generator)
