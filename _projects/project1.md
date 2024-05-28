@@ -6,6 +6,7 @@ excerpt: ''
 project url: 'https://github.com/Aveiro11/Image-caption-Generator'
 ---
 In my approach, I used a CNN as the 'image model' and an RNN/LSTM as the 'language model' to encode text sequences of varying lengths. The vectors generated from both encodings were merged and processed by a Dense layer to make the final prediction.
+![image](https://github.com/Aveiro11/Adib.github.io/assets/74791612/6c2193be-4166-4b4c-a800-25c1ed806ee1){: .align-right width="300px"}
 
 I created a merge architecture to keep the image separate from the RNN/LSTM, allowing me to train the image-handling and language-handling parts of the neural network independently, using distinct training sets for images and sentences.
 
