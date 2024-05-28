@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![toji_fushiguro](https://github.com/Aveiro11/Adib.github.io/assets/74791612/3f209969-c9ed-4b1a-90f4-4281f579bc5a){: .align-right width="300px"}
+![toji_fushiguro](https://github.com/Aveiro11/Adib.github.io/assets/74791612/3f209969-c9ed-4b1a-90f4-4281f579bc5a){: .align-right width="200px"}
 
 
 
