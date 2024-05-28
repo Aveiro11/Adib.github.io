@@ -1,5 +1,5 @@
 ---
-title: "A Machine-Learning Approach to Classify Depressive Posts from Reddit Social Media"
+title: "Image Caption Generator"
 collection: projects
 permalink: /projects/project1
 excerpt: ''
