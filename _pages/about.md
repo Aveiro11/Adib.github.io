@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="300px" src="/images/guts.png"/>
+<img align="right" width="300px" src="https://github.com/Aveiro11/Adib.github.io/blob/master/images/guts.png"/>
 
 
 👨🏻‍💻 I'm a B.Sc graduate in Computer Science & Engineering from International Islamic University Chittagong.
