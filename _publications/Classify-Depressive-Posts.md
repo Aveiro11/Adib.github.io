@@ -1,7 +1,7 @@
 ---
 title: "A Machine-Learning Approach to Classify Depressive Posts from Reddit Social Media"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Classify-Depressive-Posts
 excerpt: ''
 date: 2024-02-17
 venue: '2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)'
