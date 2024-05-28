@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![guts](https://github.com/Aveiro11/Adib.github.io/assets/74791612/0ad3e709-db31-4949-8c80-a3ef2b72c970)
+
+![toji_fushiguro](https://github.com/Aveiro11/Adib.github.io/assets/74791612/3f209969-c9ed-4b1a-90f4-4281f579bc5a){: .align-right width="300px"}
 
 
 
