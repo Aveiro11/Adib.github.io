@@ -6,6 +6,8 @@ excerpt: ''
 project url: 'https://github.com/Aveiro11/Football-Player-Detection'
 ---
 An image classification model which detects players from 5 trained player datas.Technologies used in this project,
+![image](https://github.com/Aveiro11/Adib.github.io/assets/74791612/46af6954-65f9-4325-9eae-59e90b2460b2){: .align-centre width="300px"}
+
 1. Python
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
