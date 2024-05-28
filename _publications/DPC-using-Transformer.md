@@ -6,5 +6,5 @@ excerpt: 'In our rapidly evolving contemporary world, mental health is of paramo
 date: 2023-12-13
 venue: '2023 26th International Conference on Computer and Information Technology (ICCIT)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10441302'
-citation: 'I. Newaz, A. W. Quader and M. J. A. Patwary, "Depressive Post Classification using Transformer Models," 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ICCIT60459.2023.10441302. keywords: {Social networking (online);Pandemics;Mental health;Transformers;Depression;Data models;Task analysis;Transformer;Social Media;XLNet;Depressive Post Classification;Reddit},'
+citation: 'I. Newaz, A. W. Quader and M. J. A. Patwary, "Depressive Post Classification using Transformer Models," 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ICCIT60459.2023.10441302.'
 ---
