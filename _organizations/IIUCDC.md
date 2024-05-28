@@ -1,7 +1,7 @@
 ---
 title: "President"
 collection: organizations
-permalink: /teaching/IIUCDC
+permalink: /organizations/IIUCDC
 venue: "International Islamic University Chittagong Debaters Community, International Islamic University Chittagong"
 location: "Chittagong, Bangladesh"
 ---
