@@ -1,5 +1,5 @@
 ---
-title: "President"
+title: "Former President"
 collection: organizations
 permalink: /organizations/IIUCDC
 venue: "International Islamic University Chittagong Debaters Community, International Islamic University Chittagong"
