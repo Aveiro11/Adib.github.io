@@ -21,7 +21,7 @@ repository               : "Aveiro11/adib.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.png"
   name             : "Adib Wahid Quader"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Data Science Enthusiast"
