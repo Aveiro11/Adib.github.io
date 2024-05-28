@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="300px" src="https://github.com/Aveiro11/Adib.github.io/blob/master/images/guts.png"/>
+![guts](https://github.com/Aveiro11/Adib.github.io/assets/74791612/0ad3e709-db31-4949-8c80-a3ef2b72c970)
+
 
 
 👨🏻‍💻 I'm a B.Sc graduate in Computer Science & Engineering from International Islamic University Chittagong.
