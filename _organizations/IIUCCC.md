@@ -1,7 +1,7 @@
 ---
-title: "Debate Secretary"
+title: "Former Debate Secretary"
 collection: organizations
-permalink: /teaching/IIUCCC
+permalink: /organizations/IIUCCC
 venue: "International Islamic University Chittagong Computer Club, International Islamic University Chittagong"
 location: "Chittagong, Bangladesh"
 ---
