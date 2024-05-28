@@ -215,6 +215,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  organizations:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -279,7 +282,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      
+  # _organizations
+  - scope:
+      path: ""
+      type: organizations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:
