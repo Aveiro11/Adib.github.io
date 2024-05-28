@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 <embed src="../files/Resume.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%"
-  width="100%"></embed>
+  width="100%"/>
