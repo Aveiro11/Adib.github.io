@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" src="{{ site.baseurl }}https://github.com/Aveiro11/Adib.github.io/blob/master/images/toji_fushiguro.gif"/>
+<img align="right" width="300px" src="/images/guts.png"/>
 
 
 👨🏻‍💻 I'm a B.Sc graduate in Computer Science & Engineering from International Islamic University Chittagong.
