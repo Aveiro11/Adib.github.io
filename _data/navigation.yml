@@ -14,6 +14,9 @@ main:
         
   - title: "Organizations"
     url: /organizations/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
