@@ -19,7 +19,7 @@ Sweden offers a unique combination of practical research opportunities and a col
 <!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image.png?w=1024" alt="" class="wp-image-13"/><figcaption class="wp-element-caption">University of Gothenburg main building, Vasaparken, in downtown Gothenburg. </figcaption></figure>
 <!-- /wp:image -->
-
+&nbsp;
 
 **2. Navigating UniversityAdmissions.se**
 
