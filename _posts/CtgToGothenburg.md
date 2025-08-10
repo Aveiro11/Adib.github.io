@@ -10,19 +10,19 @@ tags:
 
 When I decided to further my NLP research, Sweden quickly stood out. After publishing papers and gaining experience as a data analyst and teaching assistant, I turned my attention to top European universities. Swedish institutions like KTH, Chalmers, Lund, and the University of Gothenburg all have established language technology programs and that’s where my journey began.
 
-University of Gothenburg main building, Vasaparken, in downtown Gothenburg. 
+![University of Gothenburg main building, Vasaparken, in downtown Gothenburg.](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image.png?w=1024)  
+<sub>*University of Gothenburg main building, Vasaparken, in downtown Gothenburg.*</sub>  
 
 **1. Why Sweden?**
 
 Sweden offers a unique combination of practical research opportunities and a collaborative academic environment. Labs are often well-funded, and many projects welcome student involvement. For someone passionate about language technology, the chance to work with leading researchers and access modern resources made Sweden a natural choice.
 
-![University of Gothenburg main building, Vasaparken, in downtown Gothenburg.](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image.png?w=1024)
+![Application portal for Swedish Universities](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-1.png?w=1024)  
+<sub>*Application portal for Swedish Universities (web: https://www.universityadmissions.se/intl/start)*</sub>  
 
 **2. Navigating UniversityAdmissions.se**
 
 The Swedish application portal, UniversityAdmissions.se, simplifies the process by allowing up to four program selections per application (900 SEK each). You submit your documents, rank your preferences, and wait for decisions. I found it helpful to create a table listing each program’s entry requirements, tuition fees, and scholarship options before logging in to apply.
-
-![Application portal for Swedish Universities (web: https://www.universityadmissions.se/intl/start)](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-1.png?w=1024)
 
 **3. Choosing the Right Programs**
 
@@ -44,6 +44,9 @@ March 2025: The day after Eid, I received an email confirming my conditional adm
 
 April 2025: While traveling back to Dhaka to resume work, I checked my inbox again and saw that I had been awarded the Axel Adler Scholarship, covering both tuition and insurance. That moment made all the effort worthwhile.
 
+![Swedish Migration Agency homepage](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-3.png?w=1024)  
+<sub>*Swedish Migration Agency homepage (Web: https://www.migrationsverket.se/)*</sub>  
+
 **6. Applying for the Residence Permit**
 
 With acceptance and scholarship confirmed, I moved on to the residence permit:
@@ -54,15 +57,14 @@ With acceptance and scholarship confirmed, I moved on to the residence permit:
 
 The clear guidance and digital forms made the process straightforward.
 
-![Swedish Migration Agency homepage (Web: https://www.migrationsverket.se/)](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-3.png?w=1024)
+![Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-4.png?w=800)  
+<sub>*Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.*</sub>  
 
 **7. Collecting the Permit**
 
 - May 23, 2025: I received notice that my permit was granted.  
 - July 7, 2025: The residence card arrived at the embassy.  
 - July 11, 2025: I picked up my card and finalized my moving arrangements—booking flights, finding housing, and preparing mentally for the next chapter.  
-
-![Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.](https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-4.png?w=800)
 
 **8. Reflections and Advice**
 
