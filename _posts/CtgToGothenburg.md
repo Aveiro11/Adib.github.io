@@ -3,9 +3,9 @@ title: 'From Chittagong to Göteborg: My Journey to Swedish University Admission
 date: 2025-08-01
 permalink: /posts/2012/08/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Higher Studies
+  - Scholarship
+  - University of Gothenburg
 ---
 
 When I decided to further my NLP research, Sweden quickly stood out. After publishing papers and gaining experience as a data analyst and teaching assistant, I turned my attention to top European universities. Swedish institutions like KTH, Chalmers, Lund, and the University of Gothenburg all have established language technology programs and that’s where my journey began.
@@ -61,7 +61,9 @@ May 13, 2025: Completed my fingerprint scan and a brief interview at the embassy
 
 The clear guidance and digital forms made the process straightforward.
 
-Swedish Migration Agency homepage (Web: https://www.migrationsverket.se/)
+<!-- wp:image {"id":19,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-3.png?w=1024" alt="" class="wp-image-19"/><figcaption class="wp-element-caption">Swedish Migration Agency homepage (Web: <a href="https://www.migrationsverket.se/">https://www.migrationsverket.se/</a>)</figcaption></figure>
+<!-- /wp:image -->
 
 **7. Collecting the Permit**
 
@@ -71,7 +73,9 @@ July 7, 2025: The residence card arrived at the embassy.
 
 July 11, 2025: I picked up my card and finalized my moving arrangements—booking flights, finding housing, and preparing mentally for the next chapter.
 
-Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.
+<!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-4.png?w=800" alt="" class="wp-image-21"/><figcaption class="wp-element-caption">Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.</figcaption></figure>
+<!-- /wp:image -->
 
 **8. Reflections and Advice**
 
