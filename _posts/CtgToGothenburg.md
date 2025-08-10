@@ -12,6 +12,7 @@ When I decided to further my NLP research, Sweden quickly stood out. After publi
 
 University of Gothenburg main building, Vasaparken, in downtown Gothenburg. 
 
+
 **1. Why Sweden?**
 
 Sweden offers a unique combination of practical research opportunities and a collaborative academic environment. Labs are often well-funded, and many projects welcome student involvement. For someone passionate about language technology, the chance to work with leading researchers and access modern resources made Sweden a natural choice.
@@ -82,6 +83,7 @@ July 11, 2025: I picked up my card and finalized my moving arrangements—bookin
 <!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-4.png?w=800" alt="" class="wp-image-21"/><figcaption class="wp-element-caption">Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.</figcaption></figure>
 <!-- /wp:image -->
+
 
 
 **8. Reflections and Advice**
