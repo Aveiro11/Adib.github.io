@@ -17,7 +17,7 @@ University of Gothenburg main building, Vasaparken, in downtown Gothenburg.
 Sweden offers a unique combination of practical research opportunities and a collaborative academic environment. Labs are often well-funded, and many projects welcome student involvement. For someone passionate about language technology, the chance to work with leading researchers and access modern resources made Sweden a natural choice.
 <!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image.png?w=1024" alt="" class="wp-image-13"/><figcaption class="wp-element-caption">University of Gothenburg main building, Vasaparken, in downtown Gothenburg.</figcaption></figure>
-
+<br>
 
 **2. Navigating UniversityAdmissions.se**
 
@@ -26,7 +26,7 @@ The Swedish application portal, UniversityAdmissions.se, simplifies the process 
 Application portal for Swedish Universities (web: https://www.universityadmissions.se/intl/start)
 <!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-1.png?w=1024" alt="" class="wp-image-15"/><figcaption class="wp-element-caption">Application portal for Swedish Universities (web: <a href="https://www.universityadmissions.se/intl/start">https://www.universityadmissions.se/intl/start</a>)</figcaption></figure>
-
+<br>
 
 **3. Choosing the Right Programs**
 
@@ -63,7 +63,7 @@ The clear guidance and digital forms made the process straightforward.
 
 <!-- wp:image {"id":19,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-3.png?w=1024" alt="" class="wp-image-19"/><figcaption class="wp-element-caption">Swedish Migration Agency homepage (Web: <a href="https://www.migrationsverket.se/">https://www.migrationsverket.se/</a>)</figcaption></figure>
-
+<br>
 
 **7. Collecting the Permit**
 
@@ -75,7 +75,7 @@ July 11, 2025: I picked up my card and finalized my moving arrangements—bookin
 
 <!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://adibsblogs.wordpress.com/wp-content/uploads/2025/08/image-4.png?w=800" alt="" class="wp-image-21"/><figcaption class="wp-element-caption">Embassy of Sweden at Bay's Edgewater, Dhaka, Bangladesh.</figcaption></figure>
-
+<br>
 
 **8. Reflections and Advice**
 
